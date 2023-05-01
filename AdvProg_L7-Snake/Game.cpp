@@ -1,5 +1,3 @@
-// UPDATE THIS FILE
-
 #include <vector>
 #include <cassert>
 #include <cstdlib>
@@ -7,6 +5,9 @@
 #include "Game.h"
 
 using namespace std;
+//thay doi
+
+
 
 // set some attributes as default value
 // DO NOT CHANGE THIS CONSTRUCTOR
